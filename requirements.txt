@@ -1,0 +1,13 @@
+certifi==2020.12.5
+chardet==4.0.0
+chromedriver-binary==90.0.4430.24.0
+colorama==0.4.4
+configparser==5.0.2
+crayons==0.4.0
+idna==2.10
+requests==2.25.1
+numpy
+selenium==3.141.0
+urllib3==1.26.4
+webdriver-manager==3.4.1
+
